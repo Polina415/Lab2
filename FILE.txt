@@ -1,0 +1,1 @@
+Pipe: 1; Name: Truba; Length: 67; Diameter: 55; Under repair: 0
